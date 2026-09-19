@@ -1,9 +1,10 @@
 ## Hi I'm Krishna 👋
 
 🧠 B.Tech Mathematics & Computing @ Central University of Karnataka <br>
-💻 Building Offleet — an offline-first DSA practice app with Electron, React & Docker <br>
-🔢 400+ LeetCode problems solved | Python · C++ · JavaScript · SQL <br>
-🚀 Exploring systems architecture, ML research & open source  
+💻 Built Offleet — an offline-first DSA practice app with Electron, React & Docker <br>
+⚡ Built FlowithGo — a distributed task queue with Golang  <br>
+🔢 800+ LeetCode problems solved | Python · C++ · JavaScript · SQL <br>
+🚀 Exploring systems architecture, mathematics & AI/ML resources  
 
 
 ## 🌐 Socials:
@@ -20,6 +21,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=krishnabhardwaj25&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
